@@ -1,0 +1,2 @@
+This is first learning of git by me.
+This is the second line for learning git.
